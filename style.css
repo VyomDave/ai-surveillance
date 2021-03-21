@@ -1,0 +1,30 @@
+body{
+    color: white;
+    background-image: url("https://images.ctfassets.net/hrltx12pl8hq/5KiKmVEsCQPMNrbOE6w0Ot/341c573752bf35cb969e21fcd279d3f9/hero-img_copy.jpg?fit=fill&w=800&h=300");
+    background-size: cover;
+}
+#heading{
+    width: 100%;
+    margin-top: 0;
+    font-size: 30px;
+    text-shadow: 8px 6px 8px rgba(255, 255, 255, 1);
+    letter-spacing: 5px;
+}
+#footer{
+    bottom: 0;
+    width: 100%;
+    background-color: darkblue;
+    text-align: center;
+    line-height: 2;
+    position: relative;
+    font-size: 20px;
+}
+canvas{
+    border: 10px double mediumaquamarine;
+    box-shadow: 19px 25px 24px 4px rgba(102,205,170,1);
+-webkit-box-shadow: 19px 25px 24px 4px rgba(102,205,170,1);
+-moz-box-shadow: 19px 25px 24px 4px rgba(102,205,170,1);
+}
+#canvas{
+    margin: 20px;
+}
